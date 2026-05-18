@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">657148841423</string>
+  <string name="google_storage_bucket" translatable="false">symvolta.firebasestorage.app</string>
+  <string name="project_id" translatable="false">symvolta</string>
+  <string name="google_api_key" translatable="false">AIzaSyBd_uCKHYp-7IiY1Cl-xqj5povGXDH8YXI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBd_uCKHYp-7IiY1Cl-xqj5povGXDH8YXI</string>
+  <string name="google_app_id" translatable="false">1:657148841423:android:34c2889a7bca6a97dd56ba</string>
+</resources>
