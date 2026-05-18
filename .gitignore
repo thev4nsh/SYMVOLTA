@@ -16,8 +16,9 @@ Recordings/
 
 Assets/AssetStoreTools*
 
-# Firebase unnecessary desktop/iOS binaries
+# Remove huge Firebase desktop/iOS/tvOS binaries
 Assets/Firebase/Plugins/x86_64/
+Assets/Firebase/Plugins/iOS/
 Assets/Plugins/iOS/
 Assets/Plugins/tvOS/
 
@@ -37,12 +38,12 @@ Assets/Plugins/tvOS/
 *.opendb
 *.VC.db
 
-# OS files
+# OS junk
 .DS_Store
 Thumbs.db
 
-# Unity temp android files
+# Unity Android temp
 .utmp/
 
-# Crash logs
+# Logs
 sysinfo.txt
