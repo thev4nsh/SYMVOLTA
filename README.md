@@ -156,71 +156,86 @@ Assets/
 ├── Prefabs/
 ├── UI/
 └── Shaders/
-🧩 CORE SYSTEMS
-🎯 Gameplay
+```
 
+---
+
+# 🧩 CORE SYSTEMS
+
+## 🎯 Gameplay
 Handles:
+- timers
+- scoring
+- game state
+- match lifecycle
 
-timers
-scoring
-game state
-match lifecycle
-✍️ Drawing
-
+## ✍️ Drawing
 Handles:
+- touch input
+- line rendering
+- stroke smoothing
+- realtime drawing
 
-touch input
-line rendering
-stroke smoothing
-realtime drawing
-🔷 Shapes
-
+## 🔷 Shapes
 Handles:
+- shape detection
+- geometry validation
+- accuracy analysis
 
-shape detection
-geometry validation
-accuracy analysis
-🌍 Leaderboards
-
+## 🌍 Leaderboards
 Handles:
+- global rankings
+- top 3 systems
+- weighted ranking
 
-global rankings
-top 3 systems
-weighted ranking
-📡 Networking
-
+## 📡 Networking
 Handles:
+- offline detection
+- sync recovery
+- internet validation
 
-offline detection
-sync recovery
-internet validation
-🔒 Security
-
+## 🔒 Security
 Handles:
+- anti-cheat
+- tamper detection
+- score validation
 
-anti-cheat
-tamper detection
-score validation
-🚀 FUTURE FEATURES
+---
+
+# 🚀 FUTURE FEATURES
 
 Planned systems:
+- Blind Mode
+- Replay System
+- Ghost Drawings
+- Cosmetics
+- Ranked Seasons
+- Events
+- Multiplayer
+- Advanced Analytics
 
-Blind Mode
-Replay System
-Ghost Drawings
-Cosmetics
-Ranked Seasons
-Events
-Multiplayer
-Advanced Analytics
-📥 INSTALLATION
-Requirements
-Unity 2022+
-Android Build Support
-.NET Standard 2.1
-Clone Repository
+---
+
+# 📥 INSTALLATION
+
+## Requirements
+- Unity 2022+
+- Android Build Support
+- .NET Standard 2.1
+
+---
+
+## Clone Repository
+
+```bash
 git clone https://github.com/thev4nsh/SYMVOLTA.git
-🔧 RECOMMENDED UNITY SETTINGS
+```
+
+---
+
+# 🔧 RECOMMENDED UNITY SETTINGS
+
+```text
 Scripting Backend:
 IL2CPP
 
@@ -232,54 +247,69 @@ Both
 
 Architecture:
 ARM64
-📈 PERFORMANCE GOALS
+```
+
+---
+
+# 📈 PERFORMANCE GOALS
 
 SYMVOLTA is designed for:
+- smooth 60 FPS gameplay
+- optimized mobile rendering
+- low memory usage
+- responsive touch controls
 
-smooth 60 FPS gameplay
-optimized mobile rendering
-low memory usage
-responsive touch controls
-💰 MONETIZATION
+---
+
+# 💰 MONETIZATION
 
 Planned monetization:
-
-optional rewarded ads
-cosmetic themes
-premium visual packs
+- optional rewarded ads
+- cosmetic themes
+- premium visual packs
 
 No aggressive ad spam.
 
-📌 DEVELOPMENT STATUS
+---
+
+# 📌 DEVELOPMENT STATUS
 
 ⚠️ Project is currently under active development.
 
 Major systems are still evolving and subject to change.
 
-👨‍💻 DEVELOPER
-Vansh Yadav
-🌐 GitHub
+---
 
+# 👨‍💻 DEVELOPER
+
+## Vansh Yadav
+
+### 🌐 GitHub
 https://github.com/thev4nsh
 
-📸 Instagram
-
+### 📸 Instagram
 https://instagram.com/the_v4nsh
 
-📄 LICENSE
+---
+
+# 📄 LICENSE
 
 All Rights Reserved.
 
 Unauthorized redistribution, resale, reuploading, or commercial use of this source code or assets is prohibited.
 
-⭐ SUPPORT
+---
+
+# ⭐ SUPPORT
 
 If you like the project:
+- Star the repository
+- Follow development
+- Share feedback
+- Support future updates
 
-Star the repository
-Follow development
-Share feedback
-Support future updates
-⚡ SYMVOLTA
+---
 
-Precision Defines Rank.
+# ⚡ SYMVOLTA
+
+> Precision Defines Rank.
